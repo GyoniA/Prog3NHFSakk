@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="D:/Random Files/eclipse_projects/Prog3Sakk.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/Prog3NHFSakk/Prog3Sakk.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=Prog3NHFSakk/src&lt;sakk{Jatek.java[Jatek" manifestLocation="/Prog3NHFSakk/MANIFEST.mf" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="false" exportJavaFiles="true" exportOutputFolder="true">
+        <javaElement handleIdentifier="=Prog3NHFSakk/src"/>
+        <file path="/Prog3NHFSakk/.classpath"/>
+        <file path="/Prog3NHFSakk/Sakk HF.docx"/>
+        <file path="/Prog3NHFSakk/PKK65QProg3NHF.pdf"/>
+        <javaElement handleIdentifier="=Prog3NHFSakk/test"/>
+        <file path="/Prog3NHFSakk/.project"/>
+        <file path="/Prog3NHFSakk/Prog3SakkHFdiagram.drawio"/>
+    </selectedElements>
+</jardesc>
